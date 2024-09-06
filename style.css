@@ -183,12 +183,12 @@
 
 .borda_jogos{
     background-color: #ffde59;
-    width: 177px;
+    width: 80px;
     height: 30px;
     border-radius: 50px;
     position: fixed;
-    left: 4.3cm;
-    top: 4.3cm;
+    left: 24.2cm;
+    top: 1.1cm;
     z-index: -1;
 }
 
