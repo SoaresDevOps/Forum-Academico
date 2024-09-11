@@ -235,7 +235,8 @@
 
 .descricao_sobre{
     font-family: Arial, Helvetica, sans-serif;
-    position: static;
+    position: fixed;
     top: 5.7cm;
     left: 13cm;
+    font-size: 5cm;
 }
