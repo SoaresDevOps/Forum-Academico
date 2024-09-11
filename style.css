@@ -233,9 +233,8 @@
     font-weight: 800;
 }
 
-.txt_sobre{
+.descricao_sobre{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 90px;
     position: fixed;
     top: 5.7cm;
     left: 13cm;
