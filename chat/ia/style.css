@@ -1,0 +1,313 @@
+.txtmenu1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    color: #004aad;
+    position: fixed;
+    top: 4cm;
+    left: 2cm;
+}
+
+.txtmenu2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    color: #ffde59;
+    position: fixed;
+    top: 6cm;
+    left: 2cm;
+}
+
+.txtmenu3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    color: #004aad;
+    position: fixed;
+    top: 8cm;
+    left: 2cm;
+    
+}
+
+.home{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000;
+    position: fixed;
+    top: 0.6cm;
+    left: 19.5cm;
+}
+
+.link_home{
+    text-decoration: none;
+    color: #000000;
+}
+
+
+.sobre{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000;
+    position: fixed;
+    top: 0.6cm;
+    left: 27cm;
+
+}
+
+.link_sobre{
+    text-decoration: none;
+    color: #000000;
+}
+
+.chat{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000;
+    position: fixed;
+    top: 0.6cm;
+    left: 22cm;
+}
+
+.link_chat{
+    text-decoration: none;
+    color: #000000;
+}
+
+.jogos{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000;
+    position: fixed;
+    top: 0.6cm;
+    left: 24.3cm;   
+}
+
+.link_jogos{
+    text-decoration: none;
+    color: #000000;
+}
+
+.borda{
+    background-color: #ffde59;
+    width: 80px;
+    height: 30px;
+    border-radius: 50px;
+    position: fixed;
+    left: 19.3cm;
+    top: 1.1cm;
+    z-index: -1;
+}
+
+.matematica{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#000000;
+    position: fixed;
+    top: 3.6cm;
+    left: 4.5cm;
+    font-size: 20px;
+
+}
+
+.link_matematica{
+    text-decoration: none;
+    color: #000000;
+}
+
+.portugues{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#000000;
+    position: fixed;
+    top: 3.6cm;
+    left: 9.3cm;
+    font-size: 20px;
+
+}
+
+.link_portugues{
+    text-decoration: none;
+    color: #000000;
+}
+
+.ciencias{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#000000;
+    position: fixed;
+    top: 3.6cm;
+    left: 13.6cm;
+    font-size: 20px;
+
+}
+
+.link_ciencias{
+    text-decoration: none;
+    color: #000000;
+}
+
+.ingles{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#000000;
+    position: fixed;
+    top: 3.6cm;
+    left: 17.6cm;
+    font-size: 20px;
+
+}
+
+.link_ingles{
+    text-decoration: none;
+    color: #000000;
+}
+
+.geografia{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#000000;
+    position: fixed;
+    top: 3.6cm;
+    left: 20.6cm;
+    font-size: 20px;
+
+}
+
+.link_geografia{
+    text-decoration: none;
+    color: #000000;
+}
+
+.historia{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#000000;
+    position: fixed;
+    top: 3.6cm;
+    left: 25cm;
+    font-size: 20px;
+
+}
+
+.link_historia{
+    text-decoration: none;
+    color: #000000;
+}
+
+.borda_jogos{
+    background-color: #ffde59;
+    width: 80px;
+    height: 30px;
+    border-radius: 50px;
+    position: fixed;
+    left: 24.2cm;
+    top: 1.1cm;
+    z-index: -1;
+}
+
+.borda_sobre{
+    background-color: #ffde59;
+    width: 80px;
+    height: 30px;
+    border-radius: 50px;
+    position: fixed;
+    left: 26.8cm;
+    top: 1.1cm;
+    z-index: -1;
+}
+
+.borda_jogos_matematica{
+    background-color: #ffde59;
+    width: 80px;
+    height: 30px;
+    border-radius: 50px;
+    position: fixed;
+    left: 24.2cm;
+    top: 1.1cm;
+    z-index: -1;
+}
+
+.borda_chat{
+    background-color: #ffde59;
+    width: 80px;
+    height: 30px;
+    border-radius: 50px;
+    position: fixed;
+    left: 21.7cm;
+    top: 1.1cm;
+    z-index: -1;
+}
+
+.txtsobre1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 85px;
+    color: #004aad;
+    position: fixed;
+    top: 3cm;
+    left: 0.5cm;
+    font-weight: 800;
+}
+
+.txtsobre2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 85px;
+    color: #004aad;
+    position: fixed;
+    top: 5.7cm;
+    left: 0.5cm;
+    font-weight: 800;
+}
+
+.txtsobre3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 85px;
+    color: #ffde59;
+    position: fixed;
+    top: 5.7cm;
+    left: 8cm;
+    font-weight: 800;
+}
+
+.txtjogoswordwall{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    position: fixed;
+    top: 6cm;
+    left: 5cm;
+    
+}
+
+.descricao_sobre{
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+    top: 3cm;
+    font-size: 24px;
+    left: 16cm;
+}
+
+.chat_aovivo{
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+    top: 7.6cm;
+    left: 8cm;
+    text-decoration: none;
+    color: #000000;
+}
+
+.chat_ai{
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+    top: 7.6cm;
+    left: 19cm;
+    color: #000000;
+    text-decoration: none;
+}
+
+.borda_chataovivo{
+    background-color: #ffde59;
+    width: 210px;
+    height: 30px;
+    border-radius: 50px;
+    position: fixed;
+    left:7.7cm;
+    top: 7.7cm;
+    z-index: -1;
+}
+
+.borda_chatia{
+    background-color: #ffde59;
+    width: 210px;
+    height: 30px;
+    border-radius: 50px;
+    position: fixed;
+    left:18.7cm;
+    top: 7.7cm;
+    z-index: -1;
+}
